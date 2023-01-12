@@ -7,4 +7,4 @@ Model prediction has also streamlit site but site has any errors on video openin
 
 Link to streamlit: https://saidislombek-dev-mask-detection-app-gdah9o.streamlit.app
 
-<img src="https://user-images.githubusercontent.com/111279907/212141840-b01825ad-01ff-49eb-bd83-0c004683c490.png" width="411"/> <img src="https://user-images.githubusercontent.com/111279907/212142804-19eb3079-e168-4284-898c-6f999395f8fc.png" width="593"/>
+<img src="https://user-images.githubusercontent.com/111279907/212141840-b01825ad-01ff-49eb-bd83-0c004683c490.png" width="200"/> <img src="https://user-images.githubusercontent.com/111279907/212142804-19eb3079-e168-4284-898c-6f999395f8fc.png" width="300"/>
